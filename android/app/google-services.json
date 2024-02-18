@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748627326819",
+    "project_id": "quizz-me-1bf0b",
+    "storage_bucket": "quizz-me-1bf0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748627326819:android:96c011fda7b3a65e938556",
+        "android_client_info": {
+          "package_name": "com.anoukzouaoui.quizzme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtY12v6Bes4It7UFvAPAmoGTl4Dco4S7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
